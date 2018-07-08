@@ -1,11 +1,11 @@
-#Terminal
+# Terminal
 https://www.learnenough.com/command-line-tutorial#sec-running_a_terminal
 
 ➜  ~ vi .zshrc
 
 /Users/israel
 
-#Webpack NODE_ENV
+# Webpack NODE_ENV
 
 https://webpack.js.org/plugins/environment-plugin/
 
