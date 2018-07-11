@@ -1,3 +1,6 @@
+# Sublime
+https://medium.com/@ruthmpardee/make-your-sublime-set-up-awesome-on-your-mac-2de6bd92b58f
+
 # Online
 https://codesandbox.io
 
