@@ -1,9 +1,3 @@
-# Terminal
-https://www.learnenough.com/command-line-tutorial#sec-running_a_terminal
-
-➜  ~ vi .zshrc
-
-/Users/israel
 
 # Webpack NODE_ENV
 
