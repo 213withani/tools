@@ -4,6 +4,9 @@
 clg = console.log(obj)
 div#app = <div id="app"></div>
 
+# Parcel - build tool
+https://www.youtube.com/watch?v=b-6BeS-22yw
+
 # Sublime
 https://medium.com/@ruthmpardee/make-your-sublime-set-up-awesome-on-your-mac-2de6bd92b58f
 
