@@ -9,3 +9,6 @@ https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effective
 
 # Diagram sketch    
 https://www.draw.io/
+
+# BACK END STUFF JAVA
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
