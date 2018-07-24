@@ -1,3 +1,5 @@
+# Hyperapp (mini React)
+https://github.com/hyperapp/hyperapp
 
 # Webpack NODE_ENV
 
