@@ -25,3 +25,8 @@ http://www.color-hex.com/
 # Interactive UI component
 https://storybook.js.org/
 
+# Linux
+
+groups username will provide your permissions group
+
+https://www.howtoforge.com/tutorial/linux-groups-command/
