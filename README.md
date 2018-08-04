@@ -30,3 +30,6 @@ https://storybook.js.org/
 groups username will provide your permissions group
 
 https://www.howtoforge.com/tutorial/linux-groups-command/
+
+# github markup 
+https://github.com/tiimgreen/github-cheat-sheet
