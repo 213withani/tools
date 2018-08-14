@@ -13,7 +13,7 @@ https://medium.com/@ruthmpardee/make-your-sublime-set-up-awesome-on-your-mac-2de
 # Copy lines containing “xyz”
 * ctrl + find, 
 * click find all. 
-* click left arrow to put your cursor on the first line to copy
+* click left arrow to unselect (to copy the whole line otherwise it will all lines but just the characters you have selected)
 * ctrl + c to copy all the lines found
 * ctrl + c to paste (paste on a new file to show you all the lines it selected and copied)
 
