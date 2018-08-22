@@ -1,3 +1,5 @@
+# Deploying React App on Firebase
+https://thewebsitedev.com/deploying-react-app-firebase/
 
 # Deploy to github pages
 https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089
