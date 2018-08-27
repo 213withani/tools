@@ -6,3 +6,6 @@ https://www.infoworld.com/article/3210589/node-js/what-is-nodejs-javascript-runt
  
 # Node Fetch
  https://blogs.missouristate.edu/cio/2016/01/14/fetching-data-over-http-with-nodejs-using-node-fetch/
+
+# Error handling - morgan and winston
+http://www.jyotman.xyz/post/logging-in-node.js-done-right
