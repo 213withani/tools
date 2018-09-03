@@ -15,3 +15,11 @@ https://www.learnenough.com/command-line-tutorial#sec-running_a_terminal
 ```
 vim  ~/.zshrc
 ```
+
+# color spectrum
+spectrum_ls displays a list of colors in your terminal
+
+~ ᐅ spectrum_ls
+000: Arma virumque cano Troiae qui primus ab oris
+001: Arma virumque cano Troiae qui primus ab oris
+
