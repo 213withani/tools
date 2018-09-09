@@ -1,3 +1,16 @@
+# Merging vs. Rebasing
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+git rebase = git merge: integrate changes from one branch into another branch
+
+new commits in master are relevant to the feature that you’re working on
+
+easy option:
+```
+git checkout feature
+git merge master
+```
+
 # Git Blame
 https://blog.andrewray.me/a-better-git-blame/
 
