@@ -16,21 +16,7 @@ const toDoListInstance = shallow(
         <ToDoList tasks={tasks}/>
       );
 expect(toDoListInstance).toMatchSnapshot();
-      
-exports[`ToDoList component when provided with array of tasks should render correctly 1`] = `
-<ul>
-  <Task
-    id={0}
-    key="0"
-    name="Wash the dishes"
-  />
-  <Task
-    id={1}
-    key="1"
-    name="Make the bed"
-  />
-</ul>
-`;
+
 ```
 
 ## alias
