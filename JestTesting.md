@@ -1,7 +1,18 @@
-#
+# Intro
 https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/
 
 The test function runs a test.
+
+const toDoList = shallow(<ToDoList tasks={[]}/>);
+* expect(app.containsMatchingElement(<h1>Hello world!</h1>)).toEqual(true);
+* expect(toDoList).toContainReact(<ul/>);
+* expect(toDoList.find('li').length).toEqual(0);
+
+const toDoList = shallow(<ToDoList tasks={tasks}/>);
+* expect(toDoList.find('li').length).toEqual(tasks.length);
+
+
+## 
 
 ## alias
 it === test
