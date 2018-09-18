@@ -65,3 +65,11 @@ ex. <div>some text </div>
 # Jest documentation
 https://jestjs.io/docs/en/using-matchers
 
+expect returns expectation objects to call matchers on them
+
+toBe vs toEqual (exact equality vs check the value of an object)
+
+toEqual recursively checks every field of an object or array.
+
+* toBeTruthy matches anything that an if statement treats as true
+* toBeFalsy matches anything that an if statement treats as false
