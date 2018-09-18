@@ -73,3 +73,27 @@ toEqual recursively checks every field of an object or array.
 
 * toBeTruthy matches anything that an if statement treats as true
 * toBeFalsy matches anything that an if statement treats as false
+
+#
+
+Writing more tests doesn't mean you get more code quality.
+
+1. What makes a good test
+2. Testing strategies
+3. Keep tests clean.
+
+## 1. What makes a good test
+* fast, doesn't break, easy to write and read, catches bugs, and good coverage to effort ratio
+
+My opinion: I like tests that are easy and it catches bugs.
+
+Fb test hackatons don't work. When good tests are found, share them.
+
+## 2. Testing strategies
+* Finding a testing strategy
+
+Flux: 
+
+UI: doesn't have any bix logic takes Data Store and renders what's in store
+Data Store -> UI -> ACTION -> MUTATION
+## 3. Keep tests clean.
