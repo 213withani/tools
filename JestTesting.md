@@ -61,3 +61,7 @@ console.log(wrapper.debug());
 ## debug output
 your markup
 ex. <div>some text </div>
+
+# Jest documentation
+https://jestjs.io/docs/en/using-matchers
+
