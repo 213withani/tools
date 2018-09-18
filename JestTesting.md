@@ -101,4 +101,4 @@ STORE -> UI -> ACTION -> MUTATION
 STORE -> render -> UI -> dispatch -> ACTION -> increment_counter -> MUTATION
 
 
-## 3. Keep tests clean.
+## 3. Keep tests clean. (Nothing)
