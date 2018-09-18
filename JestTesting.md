@@ -92,8 +92,13 @@ Fb test hackatons don't work. When good tests are found, share them.
 ## 2. Testing strategies
 * Finding a testing strategy
 
-Flux: 
+Flux: (counter example)
+UI: doesn't have any busines logic takes Data Store and renders what's in store
+ACTION: Function call, INCREMENT_COUNTER. Dispatch when button clicked. Finds mutation.
+MUTATION: Updates store. Business logic.
+ 
+STORE -> UI -> ACTION -> MUTATION
+STORE -> render -> UI -> dispatch -> ACTION -> increment_counter -> MUTATION
 
-UI: doesn't have any bix logic takes Data Store and renders what's in store
-Data Store -> UI -> ACTION -> MUTATION
+
 ## 3. Keep tests clean.
