@@ -1,6 +1,6 @@
 # Visual Code
 ## multi cursor editing
-```js cmd + D```
+``` cmd + D```
 
 ## cheat sheet
 ```js
