@@ -1,12 +1,12 @@
 # Visual Code
 ## multi cursor editing
-```cmd + D```
+```js cmd + D```
 
 ## cheat sheet
+```js
 ! and tab = HTML 5 template
-clg = console.log(obj)
 div#app = <div id="app"></div>
-
+```
 # Parcel - build tool
 https://www.youtube.com/watch?v=b-6BeS-22yw
 
