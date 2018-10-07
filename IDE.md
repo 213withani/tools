@@ -1,5 +1,8 @@
 # Visual Code
-### cheat sheet
+## multi cursor editing
+```cmd + D```
+
+## cheat sheet
 ! and tab = HTML 5 template
 clg = console.log(obj)
 div#app = <div id="app"></div>
